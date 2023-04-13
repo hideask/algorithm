@@ -1,4 +1,4 @@
-package kkboj;
+package oj;
 
 import java.math.BigDecimal;
 import java.util.HashSet;
